@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55101943dd77d4e069ab3b262657f88d, type: 3}
+  m_Name: Server_Objects
+  m_EditorClassIdentifier: 
+  Objects:
+  - Name: Bullet
+    Prefab: {fileID: 1439545737248638, guid: c18a905263d2844c1be2877fcc7cb74b, type: 2}
+  - Name: Meteor
+    Prefab: {fileID: 1164755691543900, guid: 5d2b6802dc83d4f81b06094e3db188f8, type: 2}
